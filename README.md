@@ -17,3 +17,5 @@ Este proyecto trata de esto esto y esto y se ejecute asi
 
 [Licencia]
 
+[Agradecimientos]
+
